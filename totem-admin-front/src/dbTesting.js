@@ -27,7 +27,7 @@ const createStorybook = async () => {
       storybook.set("language", "english");
       storybook.set("type", "fiction");
       storybook.set("genre", "children");
-      storybook.set("published", "2025");
+      storybook.set("published", "2025");``
       storybook.set("publisher", "na");
       storybook.set("ISBN", "na");
       storybook.set("contributed_by", "na");
